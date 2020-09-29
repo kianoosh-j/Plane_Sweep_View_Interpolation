@@ -1,0 +1,2 @@
+../Data/Living room/im0.png
+../Data/Living room/im1.png
